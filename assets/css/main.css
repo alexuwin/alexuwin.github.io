@@ -1875,6 +1875,7 @@ input, select, textarea {
 	}
 
 	textarea {
+		resize: vertical;
 		padding: 0.75em;
 	}
 
